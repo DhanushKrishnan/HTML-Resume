@@ -1,0 +1,33 @@
+*{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h2{
+    background: #DBF3FF;
+}
+.personalDetails{
+    
+}
+.personalDetailsInside{
+    padding-left: 80px; 
+    font-weight: 100;
+}
+h5{
+    font-size: 15px;
+    line-height: 0.1;
+}
+h4{
+    line-height: 0.2;
+}
+.container{
+    display: grid;
+    grid-template-columns: 3fr 2.5fr;
+}
+.subContainer{
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+}
+a{
+    text-decoration: none;
+}
